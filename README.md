@@ -32,6 +32,11 @@ From this competition, what we learned:
  - The model might cause overfitting 
   Solutions: decrease the number of features using feature importance analysis, only select the important feature
   
- - Future approach like Netural Network might be useful 
+  - Future approach like Netural Network might be useful 
+ 
+From a business perspective 
+ - Total revenue, sessions/webpages visited and time on sites for past several months do have a significant importance on future revenue 
+ - City is also an important factor. Therefore, Google Merchdaise should advertise differently for each city, especially in ***
+ 
  
   
