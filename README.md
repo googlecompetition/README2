@@ -7,3 +7,14 @@ With the challenge we are facing, this problem has been divided into two parts: 
 
 As the test set has 168 days window and 46 days gap to predict the next 62 days transactions, we created a master data set that has the similar data structure. Additionally, with more than 30 features in the dataset, we will use Light GBM model to train the dataset. More detailed process is listed as the followings. 
 
+# Data Exploration and Visualization 
+
+
+# Build Analytical dataset
+
+
+# Statistical Result & Interpretation 
+
+
+
+# Conclusion
